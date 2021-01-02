@@ -30,7 +30,7 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          api: "https://test.frontity.org/wp-json"
+          api: "https://public-api.wordpress.com/rest/v1.1/sites/camerabites.wordpress.com/posts?page=1&per_page=20"
         }
       }
     },
